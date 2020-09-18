@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+/notebooks/motion_planning_sampling/animation_drunk_dance/
+/notebooks/motion_planning_sampling/animation_free_rotation/
+/notebooks/motion_planning_sampling/animation_002_fixed_arm/
+/notebooks/motion_planning_sampling/animation/
+/notebooks/motion_planning_sampling/animation_002_free_arm/
+/notebooks/motion_planning_sampling/animation_001_fixed_arm/
+/notebooks/motion_planning_sampling/animation_001_free_arm/
+/notebooks/img/004/
+/notebooks/img/002/
+/notebooks/img/003/
+/notebooks/img/animation/
+/notebooks/img/001/
+/notebooks/img/.ipynb_checkpoints/
+/notebooks/.ipynb_checkpoints/
+/tf_robot_learning.egg-info/
+/tf_robotic.egg-info/
+/notebooks/gamp/.ipynb_checkpoints/
